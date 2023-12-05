@@ -1,0 +1,30 @@
+Wamp Server ın Kurulum için
+
+1. VisualC klasörünün içinde ki install_all
+2. wampserver'a tıkla kuruluma başlat, D sürcünüz var isi yolu D sürücü seçebilirsiniz..Browser Chrome seçebilirsiniz..
+C:\Program Files\Google\Chrome\Application
+ileri-ileri deyip kendi ayarları ile kurabilirsiniz...
+
+WampServerdaki wordpress projesinin aktif hale getirme..
+
+1. wampserverı çalıştır.
+2. wordpress klasörünü
+	C'deki wamp64 klasörünün içindeki www içinde yapıştır. 
+	wordpress klasör adını proje adınız olarak ismini değiştir.
+3. http://localhost/sinop tıklayıp giriş yapık.
+	burada bizden istenenleri yapacağız.
+
+4. http://localhost girip yardımcı programlar dan tıklayarak girdik.
+	http://localhost/phpmyadmin/ -> giriş yaptım..
+	local mysql kullanıcı adı -- root
+	şifre yok...
+	veritabanı linkini tıkla buraya projen için veritabanı oluştur..
+5. veritabanı linkinden giriş yaptık..
+	veritabanı adı: sinop
+	kullanıcı adı: root
+	şifre:
+	sunucu adı : localhost
+	tablo ön adı: s_
+
+6. kurulumu başlat çıkarsa herşey yolunda demek.
+	

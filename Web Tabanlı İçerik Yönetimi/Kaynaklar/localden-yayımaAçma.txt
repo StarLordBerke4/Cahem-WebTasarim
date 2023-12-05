@@ -1,0 +1,12 @@
+1-infintyfree.com sitesine giriniz...
+2.create acount oluştur...
+3. oluşturduğunuz acount alan adımız seçim yap..
+4. mysql kısmında create mysql diyerek veritabını oluştur.
+5. localdeki veritabanınızın yedeğini oluşturmak için phpMyAdmin bölüne giripi sol taraftaki kısımdan veritabının tıkla. yukarıdan dışa aktar seçeneğini seç.
+6. iran.sql dosyasınız indirilenler klasöründe..
+7. infinity bölümünden phpMyadmine gir.(oluşturulan veritabanı bölümünden) girip içeri aktar deyip indirilenlerin içinden iran.sql seçip çalıştır.
+8. filezilla ile wordpress doslarının hepsini htpdocs klasörüne at.
+	infinity sayfasından ftp-details kısmından bölümünden ftp şifre bilgilerini alıp..
+9. wp-config.php dosyasının bir kopyasını masaüstüne yapıştır. yine infiniyty sayfasındaki mysql bölümünden bilgileri al bu sayfanın içindekik gerekli yerlere yapıştır.
+10-yayımdaki phpMyadmine kısmana girip wp_option tablosundaki site name ve url adresini subdomaine adın ile değiştir.
+11- yayımdaki wp-admin kısmına gir ayarlar bölümünden bağlantı linkini kontrol et. ve kalıcı bağlantılardan yazı ismi seçili olacak ve aşağıdan değişiklikleri kaydet seç.
