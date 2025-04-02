@@ -37,7 +37,7 @@
 
 <p>Kurs boyunca, etkili animasyon teknikleri ile web sitelerine nasıl çekici ve etkileşimli unsurlar ekleyeceklerini öğrenecekler. CSS ve JavaScript gibi dillerle, kullanıcı etkileşimini artıran animasyonları nasıl tasarlayacakları konusunda uygulamalı deneyimler elde ederler. Kullanıcı Deneyimi (UX) ve Arayüz Tasarımı (UI) konuları, tasarım süreçlerinin kullanıcı odaklı bir şekilde nasıl yürütüleceğine dair ipuçları sunar. Ayrıca responsive tasarım, katılımcılara çeşitli cihaz ve ekran boyutlarına uyumlu web siteleri oluşturma becerisi kazandırır.</p>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/Cahem-WebTasarim/blob/main/psd-to-html-css.png" alt="FrontendPatika" height="720" width="1100"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/Cahem-WebTasarim/blob/main/psd-to-html-css.png" alt="FrontendPatika"  width="1100"/></a>
 
 <p>Grafik ve Animasyon Tabanlı Web Tasarım kursu, katılımcılara modern web tasarımının temel prensiplerini ve bu alanda kullanılan etkili grafik ve animasyon tekniklerini öğretmeyi amaçlamaktadır. Bu eğitim sayesinde, katılımcılar görsel estetiği ön plana çıkaran dinamik web siteleri oluşturma becerisi kazanacaklardır.</p>
 
