@@ -60,5 +60,5 @@
 <a href=""><img align="center" src="https://github.com/StarLordBerke4/Cahem-WebTasarim/blob/main/Grafik-Ve-Animasyon-Tabanl%C4%B1-Web-Sayfas%C4%B1-Haz%C4%B1rlama.jpg" alt="FrontendPatika" height="720" width="1100"/></a>
 - <b>Sertifika Adı:</b> Grafik Ve Animasyon Tabanlı Web Sayfası Hazırlama
 - <b>Sertifika No:</b> 11978420240087385518
-- <b>ertifika URL:</b> <a>https://drive.google.com/drive/u/2/folders/1A5DttJtLj9Y6aYoH5yqrI-cZIkkJyRZF</a>
+- <b>Sertifika URL:</b> <a>https://drive.google.com/drive/u/2/folders/1A5DttJtLj9Y6aYoH5yqrI-cZIkkJyRZF</a>
 - <b>Linkedin Profil URL:</b><a>https://www.linkedin.com/in/starlordberke/</a>
