@@ -30,3 +30,22 @@
 - Sertifika No: 11978420230084750644
 - Sertifika URL: <a>https://drive.google.com/drive/u/2/folders/1A5DttJtLj9Y6aYoH5yqrI-cZIkkJyRZF</a>
 - Linkedin Profil URL: <a>https://www.linkedin.com/in/starlordberke/</a>
+
+
+### Grafik ve Animasyon Tabanlı Web Tasarım 
+<p>Grafik ve Animasyon Tabanlı Web Tasarım kursu, katılımcılara modern web tasarımının dinamik ve görsel yönlerini keşfetme fırsatı sunan kapsamlı bir eğitim programıdır. Bu kurs, hem grafikte hem de animasyonda etkili tekniklerin yanı sıra bu becerilerin web tasarımına nasıl entegre edileceği konusunda derinlemesine bilgi sağlamayı amaçlar. Katılımcılar, grafik tasarımın temel prensipleri olan renk teorisi, kompozisyon, ve tipografi gibi unsurları öğrenirken, bunu profesyonel yazılımlar aracılığıyla uygulama şansı bulacaklardır. Ayrıca, Adobe Photoshop, Illustrator ve Figma gibi araçların kullanımı üzerinde durularak, katılımcıların yaratıcı tasarımlar oluşturma becerisi gelişecektir.</p>
+
+<p>Kurs boyunca, etkili animasyon teknikleri ile web sitelerine nasıl çekici ve etkileşimli unsurlar ekleyeceklerini öğrenecekler. CSS ve JavaScript gibi dillerle, kullanıcı etkileşimini artıran animasyonları nasıl tasarlayacakları konusunda uygulamalı deneyimler elde ederler. Kullanıcı Deneyimi (UX) ve Arayüz Tasarımı (UI) konuları, tasarım süreçlerinin kullanıcı odaklı bir şekilde nasıl yürütüleceğine dair ipuçları sunar. Ayrıca responsive tasarım, katılımcılara çeşitli cihaz ve ekran boyutlarına uyumlu web siteleri oluşturma becerisi kazandırır.</p>
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/Cahem-WebTasarim/blob/main/psd-to-html-css.png" alt="FrontendPatika" height="720" width="1100"/></a>
+
+<p>Grafik ve Animasyon Tabanlı Web Tasarım kursu, katılımcılara modern web tasarımının temel prensiplerini ve bu alanda kullanılan etkili grafik ve animasyon tekniklerini öğretmeyi amaçlamaktadır. Bu eğitim sayesinde, katılımcılar görsel estetiği ön plana çıkaran dinamik web siteleri oluşturma becerisi kazanacaklardır.</p>
+
+### Kurs İçerği Aşağıdaki Şekildedir:
+- Temel Grafik Tasarım Prensipleri: Renk teorisi, kompozisyon ve tipografi gibi grafik tasarımın temel unsurları üzerine eğitim verilir.
+- Web Tasarım Araçları: Adobe Photoshop, Illustrator ve Figma gibi profesyonel grafik tasarım yazılımlarının kullanımı konusunda uygulamalı dersler yapılır.
+- Animasyon Teknikleri: CSS ve JavaScript kullanarak web sitelerine nasıl animasyon eklenebileceği öğretilir; bu sayede sayfa geçişleri, buton animasyonları ve diğer etkileşimli unsurlar oluşturulur.
+- Kullanıcı Deneyimi (UX) ve Arayüz Tasarımı (UI): Etkili bir tasarım sürecinin nasıl uygulandığı, kullanıcı deneyimine hangi faktörlerin etki ettiği ve kullanıcı arayüzü tasarımında dikkat edilmesi gereken unsurlar üzerinde durulur.
+- Responsive Tasarım: Farklı cihaz ve ekran boyutlarına uygun web siteleri tasarlamak için gereken teknikler anlatılır; böylece sitelerin her platformda etkili bir şekilde görüntülenmesini sağlar.
+- Proje Geliştirme ve Uygulama: Katılımcılar, öğrendikleri becerileri pekiştirmek için kendi bireysel veya grup projeleri üzerinde çalışır, pratik deneyim kazanırlar.
+  
