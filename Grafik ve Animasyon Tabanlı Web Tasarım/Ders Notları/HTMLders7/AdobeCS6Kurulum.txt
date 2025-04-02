@@ -1,0 +1,23 @@
+1-Cs6 klasörünün içindeki sıkıştırılmış klasöre tıkla...Açılan pencereden EctractTo butonuna bas ve masaüstene aç.
+2. internet bağlantını kapat....
+3- Masaüstüne açılan AdobeCS6 klasörünün içindeki
+set-up tuşuna tıkla..
+4- Yükle seçeneğini tıkla.
+5-Kabul Et seçeneğini tıkla.
+6-programın bulunduğu klasörün içinden serial dosyasını tıkla ve buradan numarayı alarak diğer tarafa yapıştır.ardından çıkan dahasonrabağlan butonuna tıkla.
+7- Dreamweaver
+   Photoshop(64 bit)
+   Flash()
+
+8- Flashdiskin içindeki adobenin içinde amtlib.dll
+klasörünün içine gir.
+	32 bit klasörününun içindeki amtlip.dll  CS6dosyasını kopyala
+C:\Program Files (x86)\Adobe\Adobe Photoshop yapıştır.
+C:\Program Files (x86)\Adobe\Adobe Dreamweaver CS6 yapıştır.
+C:\Program Files (x86)\Adobe\Adobe Flash CS6
+
+	64 bit klasörüne gir..
+C:\Program Files\Adobe yapıştır
+C:\Program Files\Adobe\Adobe Illustrator CS6 (64 Bit)\Support Files\Contents\Windows yapıştır.
+
+	
