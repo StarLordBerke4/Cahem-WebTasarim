@@ -4,7 +4,7 @@
 ### Web Tabanlı İçerik Yönetim Sistemleri
 <p>Web tabanlı İçerik Yönetim Sistemleri (CMS), kullanıcıların web sitelerini yönetmelerini ve güncellemelerini kolaylaştıran güçlü araçlardır. Bu eğitim, katılımcılara farklı içerik yönetim sistemlerini (örneğin, WordPress, Joomla, Drupal) tanıtarak, web sitelerinin içeriklerini etkili bir şekilde nasıl oluşturacaklarını, düzenleyeceklerini ve yöneteceklerini öğretmeyi amaçlamaktadır.</p>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/Cahem-WebTasarim/blob/main/CMS.jpg" alt="FrontendPatika" height="720" width="900"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/Cahem-WebTasarim/blob/main/CMS.jpg" alt="FrontendPatika" height="720" width="1100"/></a>
 
 ### Eğitim sırasında aşağıdaki temel konular ele alınmaktadır:
 - CMS Nedir?: İçerik yönetim sistemlerinin temel kavramları, işleyişi ve önemi hakkında bilgi verilir.
@@ -20,7 +20,7 @@
 ### Kurs İlgili Düşüncelerim:
 <p>WordPress ile gerçekleştirilen bu eğitim, web tabanlı içerik yönetim sistemlerinin sunduğu fırsatları keşfetmek için mükemmel bir fırsat sundu. Katılımcılar, WordPress'in kullanıcı dostu arayüzü sayesinde kendi web sitelerini hızlı bir şekilde kurup yönetme becerisini kazandılar. Eğitim sırasında öğrendiklerim, yalnızca teknik bilgi sağlamakla kalmayıp, aynı zamanda yaratıcı düşünme yeteneklerimi geliştirdi. Özellikle içerik oluşturma ve tema özelleştirme süreçleri sırasında, hangi tasarımların ve içeriklerin hedef kitlemle en iyi şekilde etkileşim kuracağını düşünme fırsatı buldum.</p>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/Cahem-WebTasarim/blob/main/Wordpress.png" alt="FrontendPatika" height="720" width="900"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/Cahem-WebTasarim/blob/main/Wordpress.png" alt="FrontendPatika" height="720" width="1100"/></a>
 
 <p>Eklentilerin gücünü keşfettiğimde, web sitemin işlevselliğini nasıl artırabileceğimi anladım; bu, kullanıcı deneyimini zenginleştirmek için yeni yollar açtı. SEO konularına verilen önem, dijital dünyada görünür olmanın ne kadar kritik olduğunu anlamama yardımcı oldu; içeriklerin sadece kaliteli olması yeterli değil, aynı zamanda arama motorları tarafından da görünür olmaları gerektiğini fark ettim. Eğitim süresince edindiğim bilgiler, güvenlik önlemleri ve bakım süreçlerinin önemini vurguladı; bu da web sitemin sürdürülebilirliği açısından beni bilinçlendirdi. Sonuç olarak, WordPress eğitimi, sadece teknik becerilerimi geliştirmekle kalmadı, aynı zamanda dijital projelerimi daha profesyonel bir şekilde yönetme ve izleyici ile etkili bir iletişim kurma yeteneğimi artırdı. Bu deneyim, dijital varlığımı inşa etme yolculuğunda önemli bir aşama oldu ve benim için oldukça öğretici bir süreçti.</p>
 
@@ -48,4 +48,17 @@
 - Kullanıcı Deneyimi (UX) ve Arayüz Tasarımı (UI): Etkili bir tasarım sürecinin nasıl uygulandığı, kullanıcı deneyimine hangi faktörlerin etki ettiği ve kullanıcı arayüzü tasarımında dikkat edilmesi gereken unsurlar üzerinde durulur.
 - Responsive Tasarım: Farklı cihaz ve ekran boyutlarına uygun web siteleri tasarlamak için gereken teknikler anlatılır; böylece sitelerin her platformda etkili bir şekilde görüntülenmesini sağlar.
 - Proje Geliştirme ve Uygulama: Katılımcılar, öğrendikleri becerileri pekiştirmek için kendi bireysel veya grup projeleri üzerinde çalışır, pratik deneyim kazanırlar.
+
+### Kurs İlgili Düşüncelerim:
+<p>Grafik ve Animasyon Tabanlı Web Tasarım kursuna katıldığımda, bu alandaki yeteneklerimi geliştirmek için büyük bir fırsat yakaladığımı hissettim. Eğitim boyunca öğrendiğim grafik tasarım prensipleri, bana sadece estetik bir bakış açısı kazandırmakla kalmayıp, aynı zamanda yaratıcı düşünme yeteneğimi de güçlendirdi. Renk teorisi ve kompozisyon gibi temel unsurların üzerinde durulması, tasarımlarımda daha etkili ve dikkat çekici öğeler kullanmaya başlamamı sağladı. Bu bilgi, izleyicilerin dikkatini çekmenin yanı sıra, verdiğim mesajları daha etkili bir şekilde iletebilmem için büyük bir avantaj oluşturdu.</p>
+
+<p>Aynı zamanda, animasyon tekniklerinin web tasarımındaki önemi üzerine öğrendiklerim beni oldukça etkiledi. CSS ve JavaScript ile oluşturduğumuz animasyonlar, sitelerimdeki etkileşimi artırarak kullanıcı deneyimini önemli ölçüde iyileştirdi. Özellikle butonların ve geçişlerin animasyonları, kullanıcıların sitelerimle olan etkileşimini canlı ve akıcı hale getirdi. Bu süreçte, görsel unsurlarla etkileşim yaratmanın, web tasarımının sadece görsellikten ibaret olmadığını; aynı zamanda işlevselliğin de ön planda tutulması gerektiğini anlamış oldum.</p>
+
+<p>Kursun sonunda, elde ettiğim bilgi ve deneyimlerin sadece grafik tasarım süreciyle sınırlı kalmayıp, aynı zamanda kullanıcı deneyimi ve arayüz tasarımı gibi kritik alanları da kapsadığını görmek beni oldukça memnun etti. Farklı cihazlar için responsive tasarım yapabilme yeteneği, artık her platformda dikkat çekici web siteleri oluşturma konusunda kendime olan güvenimi artırdı. Bu eğitim, bana dijital dünyada güçlü bir varlık oluşturma yolunda gerekli olan yetkinlikleri kazandırdı ve gelecekteki projelerimde yaratıcı açıdan daha özgür olmamı sağlayacak temel bir zemin hazırladı. Bu süreç, sadece mesleki gelişimime değil, aynı zamanda kişisel yaratıcılığıma da önemli katkılarda bulundu.</p>
   
+### Sertifikam:
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/Cahem-WebTasarim/blob/main/Grafik-Ve-Animasyon-Tabanl%C4%B1-Web-Sayfas%C4%B1-Haz%C4%B1rlama.jpg" alt="FrontendPatika" height="720" width="1100"/></a>
+- Sertifika Adı: 
+- Sertifika No: 
+- Sertifika URL: <a>https://drive.google.com/drive/u/2/folders/1A5DttJtLj9Y6aYoH5yqrI-cZIkkJyRZF</a>
+- Linkedin Profil URL: <a>https://www.linkedin.com/in/starlordberke/</a>
