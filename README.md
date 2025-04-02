@@ -25,7 +25,7 @@
 <p>Eklentilerin gücünü keşfettiğimde, web sitemin işlevselliğini nasıl artırabileceğimi anladım; bu, kullanıcı deneyimini zenginleştirmek için yeni yollar açtı. SEO konularına verilen önem, dijital dünyada görünür olmanın ne kadar kritik olduğunu anlamama yardımcı oldu; içeriklerin sadece kaliteli olması yeterli değil, aynı zamanda arama motorları tarafından da görünür olmaları gerektiğini fark ettim. Eğitim süresince edindiğim bilgiler, güvenlik önlemleri ve bakım süreçlerinin önemini vurguladı; bu da web sitemin sürdürülebilirliği açısından beni bilinçlendirdi. Sonuç olarak, WordPress eğitimi, sadece teknik becerilerimi geliştirmekle kalmadı, aynı zamanda dijital projelerimi daha profesyonel bir şekilde yönetme ve izleyici ile etkili bir iletişim kurma yeteneğimi artırdı. Bu deneyim, dijital varlığımı inşa etme yolculuğunda önemli bir aşama oldu ve benim için oldukça öğretici bir süreçti.</p>
 
 ### Sertifikam:
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/Cahem-WebTasarim/blob/main/Web-Tabanl%C4%B1-%C4%B0%C3%A7erik-Y%C3%B6netim-Sistemleri.jpg" alt="FrontendPatika" height="720" width="1100"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/Cahem-WebTasarim/blob/main/Web-Tabanl%C4%B1-%C4%B0%C3%A7erik-Y%C3%B6netim-Sistemleri.jpg" alt="FrontendPatika" width="1100"/></a>
 - <b>Sertifika Adı:</b> Web Tabanlı İçerik Yönetim Sistemleri
 - <b>Sertifika No:</b> 11978420230084750644
 - <b>Sertifika URL:</b> <a>https://drive.google.com/drive/u/2/folders/1A5DttJtLj9Y6aYoH5yqrI-cZIkkJyRZF</a>
@@ -57,7 +57,7 @@
 <p>Kursun sonunda, elde ettiğim bilgi ve deneyimlerin sadece grafik tasarım süreciyle sınırlı kalmayıp, aynı zamanda kullanıcı deneyimi ve arayüz tasarımı gibi kritik alanları da kapsadığını görmek beni oldukça memnun etti. Farklı cihazlar için responsive tasarım yapabilme yeteneği, artık her platformda dikkat çekici web siteleri oluşturma konusunda kendime olan güvenimi artırdı. Bu eğitim, bana dijital dünyada güçlü bir varlık oluşturma yolunda gerekli olan yetkinlikleri kazandırdı ve gelecekteki projelerimde yaratıcı açıdan daha özgür olmamı sağlayacak temel bir zemin hazırladı. Bu süreç, sadece mesleki gelişimime değil, aynı zamanda kişisel yaratıcılığıma da önemli katkılarda bulundu.</p>
   
 ### Sertifikam:
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/Cahem-WebTasarim/blob/main/Grafik-Ve-Animasyon-Tabanl%C4%B1-Web-Sayfas%C4%B1-Haz%C4%B1rlama.jpg" alt="FrontendPatika" height="720" width="1100"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/Cahem-WebTasarim/blob/main/Grafik-Ve-Animasyon-Tabanl%C4%B1-Web-Sayfas%C4%B1-Haz%C4%B1rlama.jpg" alt="FrontendPatika" width="1100"/></a>
 - <b>Sertifika Adı:</b> Grafik Ve Animasyon Tabanlı Web Sayfası Hazırlama
 - <b>Sertifika No:</b> 11978420240087385518
 - <b>Sertifika URL:</b> <a>https://drive.google.com/drive/u/2/folders/1A5DttJtLj9Y6aYoH5yqrI-cZIkkJyRZF</a>
