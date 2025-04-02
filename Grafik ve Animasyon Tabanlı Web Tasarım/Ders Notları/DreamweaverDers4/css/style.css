@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #000;
+	background-color: #CCC;
+	text-align: center;
+}
+a {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #C60;
+	text-decoration: none;
+}
+a:hover {
+	color: #060;
+	text-decoration: underline;
+}
+img {
+	border: 10px inset #F00;
+	height: 200px;
+	width: 300px;
+	padding: 20px;
+	margin: 20px;
+	color: #D6D6D6;
+	background-color: #FFF;
+	/*border-top-left-radius:50px;
+	border-bottom-right-radius:50px;
+	*/
+	border-radius:50%;
+	
+}
+
+
+
+h1, h2, h3, h4 {
+	font-family: "Comic Sans MS", cursive;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+h1 {
+	font-size: 24px;
+	color: #F00;
+	text-decoration: none;
+}
+h2 {
+	font-size: 18px;
+	color: #00F;
+}
+h3 {
+	font-size: 16px;
+	color: #000;
+}
+h4 {
+	font-size: 14px;
+	color: #060;
+}
