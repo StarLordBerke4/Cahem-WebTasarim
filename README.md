@@ -7,13 +7,13 @@
 <a href=""><img align="center" src="https://github.com/StarLordBerke4/Cahem-WebTasarim/blob/main/CMS.jpg" alt="FrontendPatika" height="720" width="1100"/></a>
 
 ### Eğitim sırasında aşağıdaki temel konular ele alınmaktadır:
-- CMS Nedir?: İçerik yönetim sistemlerinin temel kavramları, işleyişi ve önemi hakkında bilgi verilir.
-- Kurulum ve Konfigürasyon: Seçilen bir içerik yönetim sisteminin nasıl kurulduğu ve başlangıç ayarlarının nasıl yapıldığı gösterilir.
-- çerik Oluşturma ve Yönetimi: Metin, resim ve medya dosyalarının içerik olarak nasıl ekleneceği ve düzenleneceği öğretilir.
-- Tema ve Tasarım Düzenlemeleri: CMS üzerinde temaların nasıl seçileceği ve özelleştirileceği, görsel tasarımın nasıl iyileştirileceği konularında bilgi verilir.
-- Eklentiler ve Uzantılar: Web sitesinin işlevselliğini artırmak için hangi eklentilerin kullanılabileceği ve nasıl yükleneceği açıklanır.
-- SEO ve İçerik Stratejileri: Arama motoru optimizasyonu (SEO) teknikleri ve etkili içerik stratejileri ile web sitelerinin görünürlüğünü artırma yolları ele alınır.
-- Güvenlik ve Bakım: Web sitelerinin güvenliğini sağlamak ve düzenli bakım yapmanın yolları tartışılır.
+- <b>CMS Nedir?:</b> İçerik yönetim sistemlerinin temel kavramları, işleyişi ve önemi hakkında bilgi verilir.
+- <b>Kurulum ve Konfigürasyon:</b> Seçilen bir içerik yönetim sisteminin nasıl kurulduğu ve başlangıç ayarlarının nasıl yapıldığı gösterilir.
+- <b>çerik Oluşturma ve Yönetimi:</b> Metin, resim ve medya dosyalarının içerik olarak nasıl ekleneceği ve düzenleneceği öğretilir.
+- <b>Tema ve Tasarım Düzenlemeleri:</b> CMS üzerinde temaların nasıl seçileceği ve özelleştirileceği, görsel tasarımın nasıl iyileştirileceği konularında bilgi verilir.
+- <b>Eklentiler ve Uzantılar:</b> Web sitesinin işlevselliğini artırmak için hangi eklentilerin kullanılabileceği ve nasıl yükleneceği açıklanır.
+- <b>SEO ve İçerik Stratejileri:</b> Arama motoru optimizasyonu (SEO) teknikleri ve etkili içerik stratejileri ile web sitelerinin görünürlüğünü artırma yolları ele alınır.
+- <b>Güvenlik ve Bakım:</b> Web sitelerinin güvenliğini sağlamak ve düzenli bakım yapmanın yolları tartışılır.
 
 <p>Web tabanlı İçerik Yönetim Sistemleri (CMS) eğitimi, katılımcılara web sitelerinin oluşturulması, yönetilmesi ve güncellenmesi konusunda kapsamlı bilgi ve beceriler kazandırmayı amaçlamaktadır. Eğitim sürecinde, öncelikle içerik yönetim sisteminin temel kavramları ve avantajları üzerinde durulur; böylece katılımcılar hangi CMS'nin kendi ihtiyaçlarına uygun olduğunu anlamaya yardımcı olacak bilgilere sahip olurlar. Katılımcılara, seçtikleri içerik yönetim sisteminin nasıl kurulacağı, yapılandırılacağı ve kullanıcı arayüzünün nasıl kullanılacağı gösterilir. Eğitim boyunca içerik oluşturma teknikleri detaylandırılır; metin, görsel ve medya içeriklerinin nasıl ekleneceği, düzenleneceği ve güncellenmesi konusunda pratik uygulamalar yapılır. Ayrıca, web sitelerinin estetik ve fonksiyonelliğini artırmak için tema seçimi ve özelleştirmeleri, kullanıcı deneyimini geliştirmek adına önemli bir adım olarak vurgulanır. Eğitim, SEO en iyi uygulamalarını ve içerik stratejilerini de kapsar; bu sayede katılımcılar, web sitelerinin arama motorlarında daha görünür olmasını sağlamak için gereken bilgiye ulaşırlar. Ek olarak, güvenlik önleatılımcılara sitelerinin güvenliğini sağlama ve potansiyel tehditlere karşı koruma yollarını öğretir. Sonuç olarak, bu eğitim programı, katılımcılara yalnızca teknik bilgi değil, aynı zamanda stratejik düşünme ve yaratıcı problem çözme becerileri kazandırarak, kendi projelerinde profesyonel düzeyde içerik yönetimi yapabilmeleri için gerekli donanımı sağlar.</p>
 
@@ -26,10 +26,10 @@
 
 ### Sertifikam:
 <a href=""><img align="center" src="https://github.com/StarLordBerke4/Cahem-WebTasarim/blob/main/Web-Tabanl%C4%B1-%C4%B0%C3%A7erik-Y%C3%B6netim-Sistemleri.jpg" alt="FrontendPatika" height="720" width="1100"/></a>
-- Sertifika Adı: Web Tabanlı İçerik Yönetim Sistemleri
-- Sertifika No: 11978420230084750644
-- Sertifika URL: <a>https://drive.google.com/drive/u/2/folders/1A5DttJtLj9Y6aYoH5yqrI-cZIkkJyRZF</a>
-- Linkedin Profil URL: <a>https://www.linkedin.com/in/starlordberke/</a>
+- <b>Sertifika Adı:</b> Web Tabanlı İçerik Yönetim Sistemleri
+- <b>Sertifika No:</b> 11978420230084750644
+- <b>Sertifika URL:</b> <a>https://drive.google.com/drive/u/2/folders/1A5DttJtLj9Y6aYoH5yqrI-cZIkkJyRZF</a>
+- <b>Linkedin Profil URL:</b> <a>https://www.linkedin.com/in/starlordberke/</a>
 
 
 ### Grafik ve Animasyon Tabanlı Web Tasarım 
@@ -42,12 +42,12 @@
 <p>Grafik ve Animasyon Tabanlı Web Tasarım kursu, katılımcılara modern web tasarımının temel prensiplerini ve bu alanda kullanılan etkili grafik ve animasyon tekniklerini öğretmeyi amaçlamaktadır. Bu eğitim sayesinde, katılımcılar görsel estetiği ön plana çıkaran dinamik web siteleri oluşturma becerisi kazanacaklardır.</p>
 
 ### Kurs İçerği Aşağıdaki Şekildedir:
-- Temel Grafik Tasarım Prensipleri: Renk teorisi, kompozisyon ve tipografi gibi grafik tasarımın temel unsurları üzerine eğitim verilir.
-- Web Tasarım Araçları: Adobe Photoshop, Illustrator ve Figma gibi profesyonel grafik tasarım yazılımlarının kullanımı konusunda uygulamalı dersler yapılır.
-- Animasyon Teknikleri: CSS ve JavaScript kullanarak web sitelerine nasıl animasyon eklenebileceği öğretilir; bu sayede sayfa geçişleri, buton animasyonları ve diğer etkileşimli unsurlar oluşturulur.
-- Kullanıcı Deneyimi (UX) ve Arayüz Tasarımı (UI): Etkili bir tasarım sürecinin nasıl uygulandığı, kullanıcı deneyimine hangi faktörlerin etki ettiği ve kullanıcı arayüzü tasarımında dikkat edilmesi gereken unsurlar üzerinde durulur.
-- Responsive Tasarım: Farklı cihaz ve ekran boyutlarına uygun web siteleri tasarlamak için gereken teknikler anlatılır; böylece sitelerin her platformda etkili bir şekilde görüntülenmesini sağlar.
-- Proje Geliştirme ve Uygulama: Katılımcılar, öğrendikleri becerileri pekiştirmek için kendi bireysel veya grup projeleri üzerinde çalışır, pratik deneyim kazanırlar.
+- <b>Temel Grafik Tasarım Prensipleri:</b> Renk teorisi, kompozisyon ve tipografi gibi grafik tasarımın temel unsurları üzerine eğitim verilir.
+- <b>Web Tasarım Araçları:</b> Adobe Photoshop, Illustrator ve Figma gibi profesyonel grafik tasarım yazılımlarının kullanımı konusunda uygulamalı dersler yapılır.
+- <b>Animasyon Teknikleri:</b> CSS ve JavaScript kullanarak web sitelerine nasıl animasyon eklenebileceği öğretilir; bu sayede sayfa geçişleri, buton animasyonları ve diğer etkileşimli unsurlar oluşturulur.
+- <b>Kullanıcı Deneyimi (UX) ve Arayüz Tasarımı (UI):</b> Etkili bir tasarım sürecinin nasıl uygulandığı, kullanıcı deneyimine hangi faktörlerin etki ettiği ve kullanıcı arayüzü tasarımında dikkat edilmesi gereken unsurlar üzerinde durulur.
+- <b>Responsive Tasarım:</b> Farklı cihaz ve ekran boyutlarına uygun web siteleri tasarlamak için gereken teknikler anlatılır; böylece sitelerin her platformda etkili bir şekilde görüntülenmesini sağlar.
+- <b>Proje Geliştirme ve Uygulama:</b> Katılımcılar, öğrendikleri becerileri pekiştirmek için kendi bireysel veya grup projeleri üzerinde çalışır, pratik deneyim kazanırlar.
 
 ### Kurs İlgili Düşüncelerim:
 <p>Grafik ve Animasyon Tabanlı Web Tasarım kursuna katıldığımda, bu alandaki yeteneklerimi geliştirmek için büyük bir fırsat yakaladığımı hissettim. Eğitim boyunca öğrendiğim grafik tasarım prensipleri, bana sadece estetik bir bakış açısı kazandırmakla kalmayıp, aynı zamanda yaratıcı düşünme yeteneğimi de güçlendirdi. Renk teorisi ve kompozisyon gibi temel unsurların üzerinde durulması, tasarımlarımda daha etkili ve dikkat çekici öğeler kullanmaya başlamamı sağladı. Bu bilgi, izleyicilerin dikkatini çekmenin yanı sıra, verdiğim mesajları daha etkili bir şekilde iletebilmem için büyük bir avantaj oluşturdu.</p>
@@ -58,7 +58,7 @@
   
 ### Sertifikam:
 <a href=""><img align="center" src="https://github.com/StarLordBerke4/Cahem-WebTasarim/blob/main/Grafik-Ve-Animasyon-Tabanl%C4%B1-Web-Sayfas%C4%B1-Haz%C4%B1rlama.jpg" alt="FrontendPatika" height="720" width="1100"/></a>
-- Sertifika Adı: 
-- Sertifika No: 
-- Sertifika URL: <a>https://drive.google.com/drive/u/2/folders/1A5DttJtLj9Y6aYoH5yqrI-cZIkkJyRZF</a>
-- Linkedin Profil URL: <a>https://www.linkedin.com/in/starlordberke/</a>
+- <b>Sertifika Adı:</b> Grafik Ve Animasyon Tabanlı Web Sayfası Hazırlama
+- <b>Sertifika No:</b> 11978420240087385518
+- <b>ertifika URL:</b> <a>https://drive.google.com/drive/u/2/folders/1A5DttJtLj9Y6aYoH5yqrI-cZIkkJyRZF</a>
+- <b>Linkedin Profil URL:</b><a>https://www.linkedin.com/in/starlordberke/</a>
