@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	color: #000;
+	margin: 0px;
+}
+.anakutu {
+	background-color: #090;
+	height: auto;
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: auto;
+}
+
+
+
+
+.kutu1 {
+	background-color: #9F0;
+	float: left;
+	height: 200px;
+	width: 30%;
+}
+
+.kutu2 {
+	background-color: #C60;
+	float: left;
+	height: 200px;
+	width: 70%;
+}
+.kutu3 {
+	background-color: #990;
+	float: left;
+	height: 300px;
+	width: 100%;
+}
+.kutu4 {
+	background-color: #306;
+	float: left;
+	height: 400px;
+	width: 50%;
+}
+.kutu5 {
+	background-color: #0CC;
+	float: left;
+	height: 600px;
+	width: 50%;
+}
+.kutu6 {
+	background-color: #966;
+	float: left;
+	height: 300px;
+	width: 50%;
+}

@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000;
+	margin: 0px;
+}
+.zemin {
+	height: 100%;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: linear-gradient(to top left, #0CF, #FFF);
+	position: fixed;
+}
+.anakutu {
+	width: 75%;
+	margin-top: 100px;
+	overflow: auto;
+	margin-left: 100px;
+}
+.kutu {
+	background-color: #6F0;
+	float: right;
+	height: 160px;
+	width: 8%;
+	border-radius: 20px;
+	margin-top: 10px;
+	margin-right: 1%;
+	margin-bottom: 10px;
+	margin-left: 1%;
+	padding-top: 20px;
+	padding-right: 2%;
+	padding-bottom: 20px;
+	padding-left: 2%;
+}
+.mavi {
+	background-color: #0CF;
+}
+.mor {
+	background-color: #309;
+}
+.yesil {
+	background-color: #6F0;
+	clear: right;
+	height: 400px;
+	width: 36%;
+}
+.mavi1 {
+	background-color: #0CF;
+	margin-top: 250px;
+}
+.turuncu {
+	background-color: #F60;
+	clear: right;
+}
+.kirmizi {
+	background-color: #F00;
+}
+.amor {
+	background-color: #66C;
+	width: 22%;
+}
+.turuncu1 {
+	color: #F93;
+}
+a {
+	color: #FFF;
+	text-decoration: none;
+}
+a:hover {
+	color: #FC0;
+	text-decoration: underline;
+}
